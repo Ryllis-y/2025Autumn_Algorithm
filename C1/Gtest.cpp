@@ -1,8 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int arr[100007];
-int help[100007];
+int arr[50007];
+int help[50007];
 int num = 0;
 long long ans = 0;
 int mmsort(int l, int m, int r){
@@ -37,6 +37,8 @@ int merges(int l, int r){
 
 
 int main(){
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
     int t;
     cin >> t;
     for (int k = 0; k < t; k++){
