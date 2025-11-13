@@ -1,0 +1,85 @@
+Date : 2025-10-29 22:46:57
+Directory : /Users/ryllis/Code/alg
+Total : 55 files,  2249 codes, 84 comments, 412 blanks, all 2745 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C++      |         46 |      1,588 |         62 |        288 |      1,938 |
+| Markdown |          4 |        368 |          0 |         96 |        464 |
+| C        |          5 |        293 |         22 |         28 |        343 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                              | files      | code       | comment    | blank      | total      |
++---------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                 |         55 |      2,249 |         84 |        412 |      2,745 |
+| C1                                                |         18 |        893 |         63 |        168 |      1,124 |
+| C2                                                |         15 |        516 |          6 |        114 |        636 |
+| C3                                                |         10 |        356 |          1 |         62 |        419 |
+| guoqing                                           |         12 |        484 |         14 |         68 |        566 |
++---------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                          | language | code       | comment    | blank      | total      |
++---------------------------------------------------+----------+------------+------------+------------+------------+
+| /Users/ryllis/Code/alg/C1/C1-E-题解-24371512-杨睿涵.md | Markdown |        212 |          0 |         42 |        254 |
+| /Users/ryllis/Code/alg/C1/E_Solution.md           | Markdown |          6 |          0 |          1 |          7 |
+| /Users/ryllis/Code/alg/C1/Gtest.cpp               | C++      |         51 |          9 |          6 |         66 |
+| /Users/ryllis/Code/alg/C1/P1.cpp                  | C++      |          6 |          0 |          2 |          8 |
+| /Users/ryllis/Code/alg/C1/P2.cpp                  | C++      |         39 |          0 |          2 |         41 |
+| /Users/ryllis/Code/alg/C1/P3.cpp                  | C++      |         19 |          0 |          2 |         21 |
+| /Users/ryllis/Code/alg/C1/P3draft.cpp             | C++      |         25 |          0 |          8 |         33 |
+| /Users/ryllis/Code/alg/C1/P4.cpp                  | C++      |         39 |          3 |          8 |         50 |
+| /Users/ryllis/Code/alg/C1/P5.c                    | C        |         80 |          6 |         13 |         99 |
+| /Users/ryllis/Code/alg/C1/P6.cpp                  | C++      |         48 |          2 |         12 |         62 |
+| /Users/ryllis/Code/alg/C1/P7.cpp                  | C++      |         51 |          5 |         12 |         68 |
+| /Users/ryllis/Code/alg/C1/P7_0.cpp                | C++      |         59 |          1 |         16 |         76 |
+| /Users/ryllis/Code/alg/C1/P7test.cpp              | C++      |         49 |          9 |          7 |         65 |
+| /Users/ryllis/Code/alg/C1/P8.cpp                  | C++      |         25 |          5 |          8 |         38 |
+| /Users/ryllis/Code/alg/C1/P9.cpp                  | C++      |         39 |          2 |          6 |         47 |
+| /Users/ryllis/Code/alg/C1/P9draft.cpp             | C++      |         49 |          5 |         10 |         64 |
+| /Users/ryllis/Code/alg/C1/etest.c                 | C        |         96 |         16 |         12 |        124 |
+| /Users/ryllis/Code/alg/C1/test.c                  | C        |          0 |          0 |          1 |          1 |
+| /Users/ryllis/Code/alg/C2/A.cpp                   | C++      |         16 |          0 |          5 |         21 |
+| /Users/ryllis/Code/alg/C2/B.cpp                   | C++      |         26 |          0 |          4 |         30 |
+| /Users/ryllis/Code/alg/C2/C.cpp                   | C++      |         44 |          0 |          9 |         53 |
+| /Users/ryllis/Code/alg/C2/C2-F-题解-24371512-杨睿涵.md | Markdown |         82 |          0 |         25 |        107 |
+| /Users/ryllis/Code/alg/C2/C2-G-题解-24371512-杨睿涵.md | Markdown |         68 |          0 |         28 |         96 |
+| /Users/ryllis/Code/alg/C2/Ctest.cpp               | C++      |         49 |          0 |          2 |         51 |
+| /Users/ryllis/Code/alg/C2/D.cpp                   | C++      |         38 |          0 |          5 |         43 |
+| /Users/ryllis/Code/alg/C2/Dtest.cpp               | C++      |         40 |          0 |          1 |         41 |
+| /Users/ryllis/Code/alg/C2/E.cpp                   | C++      |         40 |          0 |          9 |         49 |
+| /Users/ryllis/Code/alg/C2/Etest.cpp               | C++      |         33 |          3 |          7 |         43 |
+| /Users/ryllis/Code/alg/C2/F.cpp                   | C++      |         48 |          2 |          7 |         57 |
+| /Users/ryllis/Code/alg/C2/G.cpp                   | C++      |         32 |          1 |          9 |         42 |
+| /Users/ryllis/Code/alg/C2/H.cpp                   | C++      |          0 |          0 |          1 |          1 |
+| /Users/ryllis/Code/alg/C2/I.cpp                   | C++      |          0 |          0 |          1 |          1 |
+| /Users/ryllis/Code/alg/C2/J.cpp                   | C++      |          0 |          0 |          1 |          1 |
+| /Users/ryllis/Code/alg/C3/A.cpp                   | C++      |         23 |          0 |          5 |         28 |
+| /Users/ryllis/Code/alg/C3/B.cpp                   | C++      |         34 |          0 |          5 |         39 |
+| /Users/ryllis/Code/alg/C3/Bcopy.cpp               | C++      |         36 |          0 |          6 |         42 |
+| /Users/ryllis/Code/alg/C3/C.cpp                   | C++      |         44 |          0 |          7 |         51 |
+| /Users/ryllis/Code/alg/C3/D.cpp                   | C++      |         30 |          0 |          5 |         35 |
+| /Users/ryllis/Code/alg/C3/E.cpp                   | C++      |         34 |          0 |          1 |         35 |
+| /Users/ryllis/Code/alg/C3/E2.cpp                  | C++      |         40 |          0 |          7 |         47 |
+| /Users/ryllis/Code/alg/C3/Ebetter.cpp             | C++      |         38 |          0 |          6 |         44 |
+| /Users/ryllis/Code/alg/C3/F.cpp                   | C++      |         22 |          0 |          5 |         27 |
+| /Users/ryllis/Code/alg/C3/G.cpp                   | C++      |         55 |          1 |         15 |         71 |
+| /Users/ryllis/Code/alg/guoqing/A.cpp              | C++      |         39 |         10 |          1 |         50 |
+| /Users/ryllis/Code/alg/guoqing/Adraft.cpp         | C++      |         42 |          1 |          6 |         49 |
+| /Users/ryllis/Code/alg/guoqing/B.cpp              | C++      |         16 |          0 |          2 |         18 |
+| /Users/ryllis/Code/alg/guoqing/C.cpp              | C++      |         31 |          1 |          1 |         33 |
+| /Users/ryllis/Code/alg/guoqing/Cbetter.cpp        | C++      |         39 |          0 |          7 |         46 |
+| /Users/ryllis/Code/alg/guoqing/D.cpp              | C++      |         31 |          0 |          9 |         40 |
+| /Users/ryllis/Code/alg/guoqing/E.c                | C        |         45 |          0 |          1 |         46 |
+| /Users/ryllis/Code/alg/guoqing/F.cpp              | C++      |         52 |          1 |          5 |         58 |
+| /Users/ryllis/Code/alg/guoqing/G.cpp              | C++      |         49 |          0 |         13 |         62 |
+| /Users/ryllis/Code/alg/guoqing/H.cpp              | C++      |         68 |          1 |         21 |         90 |
+| /Users/ryllis/Code/alg/guoqing/I.c                | C        |         72 |          0 |          1 |         73 |
+| /Users/ryllis/Code/alg/guoqing/J.cpp              | C++      |          0 |          0 |          1 |          1 |
+| Total                                             |          |      2,249 |         84 |        412 |      2,745 |
++---------------------------------------------------+----------+------------+------------+------------+------------+
